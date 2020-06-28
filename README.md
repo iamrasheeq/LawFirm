@@ -3,7 +3,7 @@
 A simple freelancing website for connecting Lawyer and Client. 
 
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](https://github.com/iamrasheeq/LawFirm/blob/master/lawFirm/lawfirm.png?raw=true "Title")
 
 Please change the following file in order to run in your localhost.
 ### /LawFirm/app/config/config.php

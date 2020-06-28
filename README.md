@@ -3,6 +3,8 @@
 A simple freelancing website for connecting Lawyer and Client. 
 
 
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
+
 Please change the following file in order to run in your localhost.
 ### /LawFirm/app/config/config.php
 ```
